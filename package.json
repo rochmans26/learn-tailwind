@@ -1,0 +1,20 @@
+{
+  "name": "wpu-tutor",
+  "version": "1.0.0",
+  "description": "A simple project for learning Tailwind CSS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rochmans26/learn-tailwind.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rochmans26/learn-tailwind/issues"
+  },
+  "homepage": "https://github.com/rochmans26/learn-tailwind#readme"
+}
